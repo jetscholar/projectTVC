@@ -20,7 +20,7 @@ Adafruit_BNO055 myIMU = Adafruit_BNO055();
 void setup() {
 
   // Initialise I2C communication
-   
+  
   Serial.begin(115200);
   myIMU.begin();
   delay(1000);
