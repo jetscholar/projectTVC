@@ -1,4 +1,5 @@
 # projectTVC
+
 ## A Thrust Vector Control system for rocketry
 
 ### Task List
@@ -8,5 +9,5 @@
 - MrZ's [Youtube Channel](https://www.youtube.com/channel/UCfVA4Rts8p8GNnBhZGO2NJg)
 - Microchip PWM [Circuit Digest](https://circuitdigest.com/microcontroller-projects/pic-microcontroller-pic16f877a-pwm-tutorial)
 
-![100x100](</images/TVC-servos2.JPG>)
-![100x100](</images/BNO055-Nano.JPG>)
+![](/images/TVC-servos2.JPG =100x100)
+![](/images/BNO055-Nano.JPG =100x100)
